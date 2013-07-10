@@ -42,7 +42,7 @@
 7.  An XML or HTML markup of a book can be generated from data more easily and quickly than XML can be parsed into data
 8.  A template (or multiple templates) could be used to easily convert data into any format, simplifying support for different formats.
 9.  Because of things like xincludes, XML must be parsed into data, manipulated, and then re-generated.  Storing as JSON skips the first step, because it already _is_ data.
-10.  We're **already** using JSON.  Currently, the XML/HTML is simply being served as a JSON field.  Serving just JSON would simplify it to a single data format.
+10. We're **already** using JSON.  Currently, the XML/HTML is simply being served as a JSON field.  Serving just JSON would simplify it to a single data format.
 11. Folders are already serving their contents as JSON.
 12. ATC is effectively just taking the HTML/XML being served currently and converting it into a JavaScript Object (JSON).
 
