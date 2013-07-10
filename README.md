@@ -40,7 +40,7 @@
 6.  [Backbone.js](http://backbonejs.org) is designed to work with specifically with JSON
     1.  "Backbone.js gives structure to web applications ... and connects it all to your existing API over a RESTful **JSON** interface."
 7.  An XML or HTML markup of a book can be generated from data more easily and quickly than XML can be parsed into data
-8.  A template (or multiple templates) could be used to easily convert data into any format, simplifying support for different formats.
+8.  A template (or multiple templates) could be used to easily convert data into any format, simplifying support for different formats.  So, for example, we should be able to avoid restyling every book.
 9.  Because of things like xincludes, XML must be parsed into data, manipulated, and then re-generated.  Storing as JSON skips the first step, because it already _is_ data.
 10. We're **already** using JSON.  Currently, the XML/HTML is simply being served as a JSON field.  Serving just JSON would simplify it to a single data format.
 11. Folders are already serving their contents as JSON.
