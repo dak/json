@@ -33,7 +33,7 @@
 3.  JSON, unlike XML, matches the data model of most programming languages
     1.  Literally "JavaScript Object Notation", it can be serialized and parsed back into an object in any modern browser
     2.  Maps easily to Python as well: Object = Dictionary, Array = List, etc.
-4.  Support for JSON has only been growing as it is becoming the default data exchange format for the web
+4.  Support for JSON has [only been growing](http://blog.appfog.com/why-json-will-continue-to-push-xml-out-of-the-picture/) as it is becoming the default data exchange format for the web
 5.  PostgreSQL has built-in support for JSON, including automatic validation
     1.  http://www.postgresql.org/docs/devel/static/datatype-json.html
     2.  http://www.postgresql.org/docs/9.3/static/functions-json.html
