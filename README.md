@@ -1,7 +1,7 @@
 ## Reasons to Use JSON
 
 1.  JSON is more compact, meaning smaller file sizes to send to a client
-2.  JSON is a strict standard, so there's less possibility of ambiguity or exceptions
+2.  JSON is [formal and precise](http://json.org/), so there's less possibility of ambiguity or exceptions
 3.  JSON is **much** faster to parse than XML, and you don't need to write any custom code to parse it
     1.  Current code to parse a book (already broken with new COLLXML format, and code complexity increases exponentially with more features):
           `````
