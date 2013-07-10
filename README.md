@@ -28,8 +28,8 @@
           `````
 
     2.  No code is required to parse JSON, since support is built-in to Backbone, but if you needed to, it would always be one line:
-        ```JSON.parse(string)``` in JavaScript
-        In Python, just ```import json``` and then ```json.loads(string)```
+        1.  ```JSON.parse(string)``` in JavaScript
+        2.  In Python, just ```import json``` and then ```json.loads(string)```
 3.  JSON, unlike XML, matches the data model of most programming languages
     1.  Literally "JavaScript Object Notation", it can be serialized and parsed back into an object in any modern browser
     2.  Maps easily to Python as well: Object = Dictionary, Array = List, etc.
