@@ -37,6 +37,6 @@
 5.  PostgreSQL has built-in support for JSON
     1.  http://www.postgresql.org/docs/devel/static/datatype-json.html
     2.  http://www.postgresql.org/docs/9.3/static/functions-json.html
-6.  Backbone.js is designed to work with JSON
+6.  [Backbone.js](http://www.backbonejs.org) is designed to work with JSON
     1.  "Backbone.js gives structure to web applications ... and connects it all to your existing API over a RESTful **JSON** interface."
 
