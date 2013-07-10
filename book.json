@@ -1,0 +1,57 @@
+{
+     "preface": {
+         "id": "m42955",
+         "title": "Preface"
+     },
+
+     "chapters": [
+         {
+             "title": "Introduction: The Nature of Science and Physics",
+             "contents": [
+                 {
+                     "id": "m42119",
+                     "title": "Introduction to Science and the Realm of Physics, Physical Quantities, and Units"
+                 },
+                 { "id": "m42092" },
+                 { "id": "m42091" },
+                 { "id": "m42120" },
+                 { "id": "m42121" }
+             ]
+         },
+         {
+             "title": "Kinematics",
+             "contents": [
+                 { "id": "m42122" },
+                 { "id": "m42033" },
+                 { "id": "m42124" },
+                 { "id": "m42096" },
+                 { "id": "m42100" },
+                 { "id": "m42099" },
+                 { "id": "m42125" },
+                 { "id": "m42102" },
+                 { "id": "m42103" }
+             ]
+         },
+         {
+             "title": "Two-Dimensional Kinematics",
+             "contents": [
+                 { "id": "m42126" },
+                 { "id": "m42104" },
+                 { "id": "m42127" },
+                 { "id": "m42128" },
+                 { "id": "m42042" },
+                 { "id": "m42045" }
+             ]
+         }
+     ],
+
+     "appendix": [
+         {
+             "id": "m42699",
+             "title": "Atomic Masses"
+         },
+         { "id": "m42702" },
+         { "id": "m42720" },
+         { "id": "m42709" }
+     ]
+}
