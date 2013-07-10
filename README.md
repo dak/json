@@ -40,4 +40,4 @@
 6.  [Backbone.js](http://backbonejs.org) is designed to work with specifically with JSON
     1.  "Backbone.js gives structure to web applications ... and connects it all to your existing API over a RESTful **JSON** interface."
 7.  An XML or HTML markup of a book can be generated from data more easily and quickly than XML can be parsed into data
-8.  Because of things like xincludes, XML must be parsed into data, manipulated, and then re-generated.  Storing as JSON skips the first step, because it already is data.
+8.  Because of things like xincludes, XML must be parsed into data, manipulated, and then re-generated.  Storing as JSON skips the first step, because it already _is_ data.
